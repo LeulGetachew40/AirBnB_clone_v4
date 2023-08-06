@@ -16,7 +16,8 @@ The console is the first segment of the AirBnB project at Holberton School that 
 No known bugs at this time. 
 
 ## Authors
-
+Kirubel Solomon<kirubelsolomons280@gmail.com>
+Leul Betemariam<leulgetachew40@gmail.com>
 
 ## License
 Public Domain. No copy write protection. 
